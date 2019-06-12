@@ -1,0 +1,18 @@
+{
+  "name": "act-rules-implementation-rgaa",
+  "version": "1.0.0",
+  "description": "Implementation [report](./report.json) for [ACT Rules](https://github.com/act-rules/act-rules.github.io) test cases validated by [Access42 (RGAA)](https://access42.net/?lang=fr).",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/act-rules/act-rules-implementation-rgaa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/act-rules/act-rules-implementation-rgaa/issues"
+  },
+  "homepage": "https://github.com/act-rules/act-rules-implementation-rgaa#readme"
+}
