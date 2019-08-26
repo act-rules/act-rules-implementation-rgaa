@@ -761,7 +761,7 @@
                 "_:struct_3"
               ],
               "result": {
-                "outcome": "earl:passed",
+                "outcome": "earl:failed",
                 "date": "2019-08-26 09:18:25 +0200"
               },
               "multiPage": false,
