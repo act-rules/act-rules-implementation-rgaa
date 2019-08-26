@@ -735,7 +735,7 @@
                 "_:struct_14"
               ],
               "result": {
-                "outcome": "earl:failed",
+                "outcome": "earl:inapplicable",
                 "date": "2019-08-26 08:41:34 +0200"
               },
               "multiPage": false,
@@ -749,7 +749,7 @@
                 "_:struct_15"
               ],
               "result": {
-                "outcome": "earl:failed",
+                "outcome": "earl:inapplicable",
                 "date": "2019-08-26 08:41:42 +0200"
               },
               "multiPage": false,
