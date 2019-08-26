@@ -573,7 +573,7 @@
                 "_:struct_6"
               ],
               "result": {
-                "outcome": "earl:failed",
+                "outcome": "earl:inapplicable",
                 "date": "2019-08-26 07:34:34 +0200"
               },
               "multiPage": false,
