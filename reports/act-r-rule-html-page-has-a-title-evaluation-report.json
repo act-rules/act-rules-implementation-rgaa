@@ -603,7 +603,7 @@
                 "_:struct_11"
               ],
               "result": {
-                "outcome": "earl:cantTell",
+                "outcome": "earl:inapplicable",
                 "date": "2019-08-26 08:47:23 +0200"
               },
               "multiPage": false,

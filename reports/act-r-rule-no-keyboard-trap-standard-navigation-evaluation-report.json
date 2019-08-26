@@ -747,7 +747,7 @@
                 "_:struct_2"
               ],
               "result": {
-                "outcome": "earl:cantTell",
+                "outcome": "earl:inapplicable",
                 "date": "2019-08-26 09:18:15 +0200"
               },
               "multiPage": false,
@@ -803,7 +803,7 @@
                 "_:struct_6"
               ],
               "result": {
-                "outcome": "earl:cantTell",
+                "outcome": "earl:inapplicable",
                 "date": "2019-08-26 09:18:55 +0200"
               },
               "multiPage": false,
@@ -817,7 +817,7 @@
                 "_:struct_7"
               ],
               "result": {
-                "outcome": "earl:cantTell",
+                "outcome": "earl:inapplicable",
                 "date": "2019-08-26 09:19:05 +0200"
               },
               "multiPage": false,
@@ -831,7 +831,7 @@
                 "_:struct_8"
               ],
               "result": {
-                "outcome": "earl:cantTell",
+                "outcome": "earl:inapplicable",
                 "date": "2019-08-26 09:19:18 +0200"
               },
               "multiPage": false,
@@ -845,7 +845,7 @@
                 "_:struct_9"
               ],
               "result": {
-                "outcome": "earl:cantTell",
+                "outcome": "earl:inapplicable",
                 "date": "2019-08-26 09:19:21 +0200"
               },
               "multiPage": false,

@@ -707,7 +707,7 @@
                 "_:struct_12"
               ],
               "result": {
-                "outcome": "earl:cantTell",
+                "outcome": "earl:inapplicable",
                 "date": "2019-08-26 08:41:14 +0200"
               },
               "multiPage": false,
@@ -721,7 +721,7 @@
                 "_:struct_13"
               ],
               "result": {
-                "outcome": "earl:cantTell",
+                "outcome": "earl:inapplicable",
                 "date": "2019-08-26 08:41:15 +0200"
               },
               "multiPage": false,

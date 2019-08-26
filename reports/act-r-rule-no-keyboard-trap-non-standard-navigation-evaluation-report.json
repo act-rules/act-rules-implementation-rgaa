@@ -803,7 +803,7 @@
                 "_:struct_6"
               ],
               "result": {
-                "outcome": "earl:cantTell",
+                "outcome": "earl:inapplicable",
                 "date": "2019-08-26 09:21:49 +0200"
               },
               "multiPage": false,
