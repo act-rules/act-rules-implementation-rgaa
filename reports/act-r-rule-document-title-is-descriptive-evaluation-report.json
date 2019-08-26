@@ -108,8 +108,8 @@
           "test": "WCAG2:text-equiv-all",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -118,8 +118,8 @@
           "test": "WCAG2:media-equiv-av-only-alt",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -128,8 +128,8 @@
           "test": "WCAG2:media-equiv-captions",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -138,8 +138,8 @@
           "test": "WCAG2:media-equiv-audio-desc",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -148,8 +148,8 @@
           "test": "WCAG2:media-equiv-real-time-captions",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -158,8 +158,8 @@
           "test": "WCAG2:media-equiv-audio-desc-only",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -168,8 +168,8 @@
           "test": "WCAG2:media-equiv-sign",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -178,8 +178,8 @@
           "test": "WCAG2:media-equiv-extended-ad",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -188,8 +188,8 @@
           "test": "WCAG2:media-equiv-text-doc",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -198,8 +198,8 @@
           "test": "WCAG2:media-equiv-live-audio-only",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -208,8 +208,8 @@
           "test": "WCAG2:content-structure-separation-programmatic",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -218,8 +218,8 @@
           "test": "WCAG2:content-structure-separation-sequence",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -228,8 +228,8 @@
           "test": "WCAG2:content-structure-separation-understanding",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -238,8 +238,8 @@
           "test": "WCAG2:visual-audio-contrast-without-color",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -248,8 +248,8 @@
           "test": "WCAG2:visual-audio-contrast-dis-audio",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -258,8 +258,8 @@
           "test": "WCAG2:visual-audio-contrast-contrast",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -268,8 +268,8 @@
           "test": "WCAG2:visual-audio-contrast-scale",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -278,8 +278,8 @@
           "test": "WCAG2:visual-audio-contrast-text-presentation",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -288,8 +288,8 @@
           "test": "WCAG2:visual-audio-contrast7",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -298,8 +298,8 @@
           "test": "WCAG2:visual-audio-contrast-noaudio",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -308,8 +308,8 @@
           "test": "WCAG2:visual-audio-contrast-visual-presentation",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -318,8 +318,8 @@
           "test": "WCAG2:visual-audio-contrast-text-images",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -328,8 +328,8 @@
           "test": "WCAG2:keyboard-operation-keyboard-operable",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -338,8 +338,8 @@
           "test": "WCAG2:keyboard-operation-trapping",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -348,8 +348,8 @@
           "test": "WCAG2:keyboard-operation-all-funcs",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -358,8 +358,8 @@
           "test": "WCAG2:time-limits-required-behaviors",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -368,8 +368,8 @@
           "test": "WCAG2:time-limits-pause",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -378,8 +378,8 @@
           "test": "WCAG2:time-limits-no-exceptions",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -388,8 +388,8 @@
           "test": "WCAG2:time-limits-postponed",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -398,8 +398,8 @@
           "test": "WCAG2:time-limits-server-timeout",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -408,8 +408,8 @@
           "test": "WCAG2:seizure-does-not-violate",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -418,8 +418,8 @@
           "test": "WCAG2:seizure-three-times",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -428,8 +428,8 @@
           "test": "WCAG2:navigation-mechanisms-skip",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -438,8 +438,8 @@
           "test": "WCAG2:navigation-mechanisms-title",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": [
             {
@@ -449,8 +449,8 @@
                 "_:struct_0"
               ],
               "result": {
-                "outcome": "earl:passed",
-                "date": "2019-06-21 06:53:36 +0200"
+                "date": "2019-08-26 07:29:26 +0200",
+                "outcome": "earl:passed"
               },
               "multiPage": false,
               "mode": "earl:manual",
@@ -463,8 +463,8 @@
                 "_:struct_1"
               ],
               "result": {
-                "outcome": "earl:passed",
-                "date": "2019-06-21 06:54:07 +0200"
+                "date": "2019-08-26 07:29:28 +0200",
+                "outcome": "earl:passed"
               },
               "multiPage": false,
               "mode": "earl:manual",
@@ -477,8 +477,8 @@
                 "_:struct_2"
               ],
               "result": {
-                "outcome": "earl:passed",
-                "date": "2019-06-21 06:54:41 +0200"
+                "date": "2019-08-26 07:29:38 +0200",
+                "outcome": "earl:passed"
               },
               "multiPage": false,
               "mode": "earl:manual",
@@ -491,8 +491,8 @@
                 "_:struct_3"
               ],
               "result": {
-                "outcome": "earl:passed",
-                "date": "2019-06-21 06:54:53 +0200"
+                "date": "2019-08-26 07:29:46 +0200",
+                "outcome": "earl:passed"
               },
               "multiPage": false,
               "mode": "earl:manual",
@@ -505,8 +505,8 @@
                 "_:struct_4"
               ],
               "result": {
-                "outcome": "earl:failed",
-                "date": "2019-06-21 06:55:10 +0200"
+                "date": "2019-08-26 07:29:56 +0200",
+                "outcome": "earl:failed"
               },
               "multiPage": false,
               "mode": "earl:manual",
@@ -519,8 +519,8 @@
                 "_:struct_5"
               ],
               "result": {
-                "outcome": "earl:failed",
-                "date": "2019-06-21 06:55:54 +0200"
+                "date": "2019-08-26 07:30:06 +0200",
+                "outcome": "earl:failed"
               },
               "multiPage": false,
               "mode": "earl:manual",
@@ -533,8 +533,8 @@
                 "_:struct_6"
               ],
               "result": {
-                "outcome": "earl:failed",
-                "date": "2019-06-21 06:56:04 +0200"
+                "date": "2019-08-26 07:30:16 +0200",
+                "outcome": "earl:failed"
               },
               "multiPage": false,
               "mode": "earl:manual",
@@ -547,64 +547,8 @@
                 "_:struct_7"
               ],
               "result": {
-                "outcome": "earl:failed",
-                "date": "2019-06-21 06:56:17 +0200"
-              },
-              "multiPage": false,
-              "mode": "earl:manual",
-              "testcase": "WCAG2:navigation-mechanisms-title"
-            },
-            {
-              "type": "Assertion",
-              "assertedBy": "_:evaluator",
-              "subject": [
-                "_:struct_8"
-              ],
-              "result": {
-                "outcome": "earl:failed",
-                "date": "2019-06-21 06:56:40 +0200"
-              },
-              "multiPage": false,
-              "mode": "earl:manual",
-              "testcase": "WCAG2:navigation-mechanisms-title"
-            },
-            {
-              "type": "Assertion",
-              "assertedBy": "_:evaluator",
-              "subject": [
-                "_:struct_9"
-              ],
-              "result": {
-                "outcome": "earl:inapplicable",
-                "date": "2019-06-21 06:56:51 +0200"
-              },
-              "multiPage": false,
-              "mode": "earl:manual",
-              "testcase": "WCAG2:navigation-mechanisms-title"
-            },
-            {
-              "type": "Assertion",
-              "assertedBy": "_:evaluator",
-              "subject": [
-                "_:struct_10"
-              ],
-              "result": {
-                "outcome": "earl:failed",
-                "date": "2019-06-21 06:57:10 +0200"
-              },
-              "multiPage": false,
-              "mode": "earl:manual",
-              "testcase": "WCAG2:navigation-mechanisms-title"
-            },
-            {
-              "type": "Assertion",
-              "assertedBy": "_:evaluator",
-              "subject": [
-                "_:struct_11"
-              ],
-              "result": {
-                "outcome": "earl:failed",
-                "date": "2019-06-21 06:57:55 +0200"
+                "date": "2019-08-26 07:39:17 +0200",
+                "outcome": "earl:inapplicable"
               },
               "multiPage": false,
               "mode": "earl:manual",
@@ -617,8 +561,8 @@
           "test": "WCAG2:navigation-mechanisms-focus-order",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -627,8 +571,8 @@
           "test": "WCAG2:navigation-mechanisms-refs",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -637,8 +581,8 @@
           "test": "WCAG2:navigation-mechanisms-mult-loc",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -647,8 +591,8 @@
           "test": "WCAG2:navigation-mechanisms-descriptive",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -657,8 +601,8 @@
           "test": "WCAG2:navigation-mechanisms-focus-visible",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -667,8 +611,8 @@
           "test": "WCAG2:navigation-mechanisms-location",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -677,8 +621,8 @@
           "test": "WCAG2:navigation-mechanisms-link",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -687,8 +631,8 @@
           "test": "WCAG2:navigation-mechanisms-headings",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -697,8 +641,8 @@
           "test": "WCAG2:meaning-doc-lang-id",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -707,8 +651,8 @@
           "test": "WCAG2:meaning-other-lang-id",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -717,8 +661,8 @@
           "test": "WCAG2:meaning-idioms",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -727,8 +671,8 @@
           "test": "WCAG2:meaning-located",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -737,8 +681,8 @@
           "test": "WCAG2:meaning-supplements",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -747,8 +691,8 @@
           "test": "WCAG2:meaning-pronunciation",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -757,8 +701,8 @@
           "test": "WCAG2:consistent-behavior-receive-focus",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -767,8 +711,8 @@
           "test": "WCAG2:consistent-behavior-unpredictable-change",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -777,8 +721,8 @@
           "test": "WCAG2:consistent-behavior-consistent-locations",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -787,8 +731,8 @@
           "test": "WCAG2:consistent-behavior-consistent-functionality",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -797,8 +741,8 @@
           "test": "WCAG2:consistent-behavior-no-extreme-changes-context",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -807,8 +751,8 @@
           "test": "WCAG2:minimize-error-identified",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -817,8 +761,8 @@
           "test": "WCAG2:minimize-error-cues",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -827,8 +771,8 @@
           "test": "WCAG2:minimize-error-suggestions",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -837,8 +781,8 @@
           "test": "WCAG2:minimize-error-reversible",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -847,8 +791,8 @@
           "test": "WCAG2:minimize-error-context-help",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -857,8 +801,8 @@
           "test": "WCAG2:minimize-error-reversible-all",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -867,8 +811,8 @@
           "test": "WCAG2:ensure-compat-parses",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         },
@@ -877,8 +821,8 @@
           "test": "WCAG2:ensure-compat-rsv",
           "subject": "_:website",
           "result": {
-            "outcome": "earl:untested",
-            "description": ""
+            "description": "",
+            "outcome": "earl:untested"
           },
           "hasPart": []
         }
@@ -905,9 +849,9 @@
               "WebPage"
             ],
             "id": "_:struct_1",
-            "description": "https://act-rules.github.io/testcases/c4a8a4/2083fcb0cb84f1b78f6ba57e2821003204312849.html",
-            "source": "https://act-rules.github.io/testcases/c4a8a4/2083fcb0cb84f1b78f6ba57e2821003204312849.html",
-            "title": "2083fcb0cb84f1b78f6ba57e2821003204312849",
+            "description": "https://act-rules.github.io/testcases/c4a8a4/c9dbc781b5409dd551452fe36060c3b5fb5eab4d.html",
+            "source": "https://act-rules.github.io/testcases/c4a8a4/c9dbc781b5409dd551452fe36060c3b5fb5eab4d.html",
+            "title": "c9dbc781b5409dd551452fe36060c3b5fb5eab4d",
             "tested": false
           },
           {
@@ -927,9 +871,9 @@
               "WebPage"
             ],
             "id": "_:struct_3",
-            "description": "https://act-rules.github.io/testcases/c4a8a4/cc6fff567cbb05a107bcac9022462f7fa02e4490.html",
-            "source": "https://act-rules.github.io/testcases/c4a8a4/cc6fff567cbb05a107bcac9022462f7fa02e4490.html",
-            "title": "cc6fff567cbb05a107bcac9022462f7fa02e4490",
+            "description": "https://act-rules.github.io/testcases/c4a8a4/2d8761b5165a28b4b9d0f50d7731a02b3c41040f.html",
+            "source": "https://act-rules.github.io/testcases/c4a8a4/2d8761b5165a28b4b9d0f50d7731a02b3c41040f.html",
+            "title": "2d8761b5165a28b4b9d0f50d7731a02b3c41040f",
             "tested": false
           },
           {
@@ -949,9 +893,9 @@
               "WebPage"
             ],
             "id": "_:struct_5",
-            "description": "https://act-rules.github.io/testcases/c4a8a4/21f4be7b0a193ebe2baa7fdd48fa73faf5e2cc6b.html",
-            "source": "https://act-rules.github.io/testcases/c4a8a4/21f4be7b0a193ebe2baa7fdd48fa73faf5e2cc6b.html",
-            "title": "21f4be7b0a193ebe2baa7fdd48fa73faf5e2cc6b",
+            "description": "https://act-rules.github.io/testcases/c4a8a4/de6acada96b1cfb140e851646a7383154a748fd7.html",
+            "source": "https://act-rules.github.io/testcases/c4a8a4/de6acada96b1cfb140e851646a7383154a748fd7.html",
+            "title": "de6acada96b1cfb140e851646a7383154a748fd7",
             "tested": false
           },
           {
@@ -971,53 +915,9 @@
               "WebPage"
             ],
             "id": "_:struct_7",
-            "description": "https://act-rules.github.io/testcases/c4a8a4/9e036a0ddf0c5263250922d6d776c98364a3e31f.html",
-            "source": "https://act-rules.github.io/testcases/c4a8a4/9e036a0ddf0c5263250922d6d776c98364a3e31f.html",
-            "title": "9e036a0ddf0c5263250922d6d776c98364a3e31f",
-            "tested": false
-          },
-          {
-            "type": [
-              "TestSubject",
-              "WebPage"
-            ],
-            "id": "_:struct_8",
-            "description": "https://act-rules.github.io/testcases/c4a8a4/e46d015db062f767bdd23cca8001e156574d1c27.html",
-            "source": "https://act-rules.github.io/testcases/c4a8a4/e46d015db062f767bdd23cca8001e156574d1c27.html",
-            "title": "e46d015db062f767bdd23cca8001e156574d1c27",
-            "tested": false
-          },
-          {
-            "type": [
-              "TestSubject",
-              "WebPage"
-            ],
-            "id": "_:struct_9",
             "description": "https://act-rules.github.io/testcases/c4a8a4/aa75f943fdbf4055f9ae736cd2551b346d459147.svg",
             "source": "https://act-rules.github.io/testcases/c4a8a4/aa75f943fdbf4055f9ae736cd2551b346d459147.svg",
             "title": "aa75f943fdbf4055f9ae736cd2551b346d459147",
-            "tested": false
-          },
-          {
-            "type": [
-              "TestSubject",
-              "WebPage"
-            ],
-            "id": "_:struct_10",
-            "description": "https://act-rules.github.io/testcases/c4a8a4/75b687226aab06ea51232acfec53a8980d47f014.html",
-            "source": "https://act-rules.github.io/testcases/c4a8a4/75b687226aab06ea51232acfec53a8980d47f014.html",
-            "title": "75b687226aab06ea51232acfec53a8980d47f014",
-            "tested": false
-          },
-          {
-            "type": [
-              "TestSubject",
-              "WebPage"
-            ],
-            "id": "_:struct_11",
-            "description": "https://act-rules.github.io/testcases/c4a8a4/55d2bdaa85aea1362481b70714ffc942884bbfc5.html",
-            "source": "https://act-rules.github.io/testcases/c4a8a4/55d2bdaa85aea1362481b70714ffc942884bbfc5.html",
-            "title": "55d2bdaa85aea1362481b70714ffc942884bbfc5",
             "tested": false
           }
         ]
@@ -1041,7 +941,7 @@
       },
       "id": "_:evaluator",
       "type": "Person",
-      "name": ""
+      "name": "Access42"
     }
   ]
 }
